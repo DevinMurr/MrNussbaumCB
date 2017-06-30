@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<GameScript>
+	<Cutscenes>
+		<scene id = 'scene1'>Welcome to Shape Factory</scene>
+		<scene id = 'scene2'>We’ve been having some problems identifying shapes in our products.</scene>
+		<scene id = 'scene3'>Apparently, I have been making a lot of mistakes on the job.</scene>
+		<scene id = 'scene4'>We need your help! We’re going to hire you to get this factory back into shape.</scene>
+		<scene id = 'scene5'>This is your work area. When products pass by that don’t belong, select them.</scene>
+		<scene id = 'scene6'>The better you do the more money you make and the more stars you’ll earn.</scene>
+	</Cutscenes>
+
+	<LoseScene>
+		<dialogue id = 'dialogue1'>Our factory isn’t doing any better.</dialogue>
+		<dialogue id = 'dialogue2'>When you’re ready please try again.</dialogue>
+	</LoseScene>
+
+	<WinScene>
+		<dialogue id = 'dialogue1'>Our factory is now doing much better, thanks to you!</dialogue>
+		<dialogue id = 'dialogue2'>We’d be honored if you’d rename the factory.</dialogue>
+	</WinScene>
+</GameScript>
