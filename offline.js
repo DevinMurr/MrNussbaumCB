@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1498823397,
+	"version": 1499824359,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -74,6 +74,15 @@
 		"images/obj_productspawner-sheet0.png",
 		"images/obj_product-sheet0.png",
 		"images/obj_product-sheet1.png",
+		"images/obj_bosscharacter-sheet0.png",
+		"images/obj_transitiondialoguebubble-sheet0.png",
+		"images/obj_continuebutton-sheet0.png",
+		"images/obj_bina-sheet0.png",
+		"images/obj_bina-sheet1.png",
+		"images/obj_binb-sheet0.png",
+		"images/obj_binb-sheet1.png",
+		"images/obj_speedupbutton-sheet0.png",
+		"images/obj_speedupbutton-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
