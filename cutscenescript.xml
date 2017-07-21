@@ -3,18 +3,19 @@
 	<Cutscenes>
 		<scene id = 'scene1'>Welcome to Shape Factory</scene>
 		<scene id = 'scene2'>We’ve been having some problems identifying shapes in our products.</scene>
-		<scene id = 'scene3'>Apparently, I have been making a lot of mistakes on the job.</scene>
-		<scene id = 'scene4'>We need your help! We’re going to hire you to get this factory back into shape.</scene>
-		<scene id = 'scene5'>This is your work area. When products pass by that don’t belong, select them.</scene>
-		<scene id = 'scene6'>The better you do the more money you make and the more stars you’ll earn.</scene>
+		<scene id = 'scene3'>Because of this we’ve been losing customers and the factory may need to be closed down.</scene>
+		<scene id = 'scene4'>Apparently, I have been making a lot of mistakes on the job.</scene>
+		<scene id = 'scene5'>We need your help! We’re going to hire you to get this factory back into shape.</scene>
+		<scene id = 'scene6'>This is your work area. When products pass by that don’t belong, select them and put them in the proper bin.</scene>
+		<scene id = 'scene7'>If you do well, you’ll earn more money and the factory will gain a higher star rating.</scene>
 	</Cutscenes>
 	
 	<TransitionScreen>
-		<dialogue id = 'dialogue1'>Welcome to your first day. Let's have some fun!</dialogue>
-		<dialogue id = 'dialogue2'>One down, 4 more days to go!</dialogue>
-		<dialogue id = 'dialogue3'>Now we're going to combine all your learning from the past 2 days.</dialogue>
-		<dialogue id = 'dialogue4'>Let's speed it up now that your comfortable on the job.</dialogue>
-		<dialogue id = 'dialogue5'>Our speeds are running at top speed today, but we can't stop now! Good luck today!!</dialogue>
+		<dialogue id = 'dialogue1'>It’s your first day. Don’t let us down! We're starting you off with 2D objects!</dialogue>
+		<dialogue id = 'dialogue2'>Good work yesterday. 4 days left. Now we'll introduce you to our 3D objects.</dialogue>
+		<dialogue id = 'dialogue3'>Now we're going to combine all your learning from the past 2 days. 2D and 3D objects will be asked to be removed!</dialogue>
+		<dialogue id = 'dialogue4'>It’ll get harder from this point on, we've removed the visuals of the shape because we know you don't need them. You're a pro, good luck today!</dialogue>
+		<dialogue id = 'dialogue5'>We are running at top speed today! You've trained for this day, all your learning from the past 4 days will come in handy. This is our chance to save the factory.</dialogue>
 	</TransitionScreen>
 
 	<LoseScene>
