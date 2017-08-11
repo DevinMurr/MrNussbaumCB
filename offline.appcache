@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1500599770
+#1502485440
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -13,14 +13,12 @@ images/obj_scalableobject-sheet0.png
 images/obj_ruler-sheet0.png
 images/obj_rulerbutton-sheet0.png
 images/obj_factorybackground-sheet0.png
+images/obj_factorybackground-sheet1.png
+images/obj_factorybackground-sheet2.png
 images/obj_conveyorbelt-sheet0.png
-images/obj_conveyorbelt-sheet1.png
-images/obj_conveyorbelt-sheet2.png
-images/obj_conveyorbelt-sheet3.png
-images/obj_conveyorbelt-sheet4.png
-images/obj_machinery-sheet0.png
-images/obj_machinery-sheet1.png
-images/obj_machinery-sheet2.png
+images/obj_machine-sheet0.png
+images/obj_machine-sheet1.png
+images/obj_machine-sheet2.png
 images/obj_pausebutton-sheet0.png
 images/obj_scorebar-sheet0.png
 images/obj_ratingbar-sheet0.png
@@ -76,7 +74,6 @@ images/obj_rivalcharacter-sheet1.png
 images/obj_productspawner-sheet0.png
 images/obj_product-sheet0.png
 images/obj_product-sheet1.png
-images/obj_product-sheet2.png
 images/obj_bosscharacter-sheet0.png
 images/obj_transitiondialoguebubble-sheet0.png
 images/obj_continuebutton-sheet0.png
@@ -86,6 +83,8 @@ images/obj_binb-sheet0.png
 images/obj_binb-sheet1.png
 images/obj_speedupbutton-sheet0.png
 images/obj_speedupbutton-sheet1.png
+images/obj_conveyorbelt02-sheet0.png
+images/obj_conveyorbelt03-sheet0.png
 media/correct.ogg
 media/intro.ogg
 media/lose.ogg
