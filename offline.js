@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502485440,
+	"version": 1503185458,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -86,6 +86,8 @@
 		"images/obj_speedupbutton-sheet1.png",
 		"images/obj_conveyorbelt02-sheet0.png",
 		"images/obj_conveyorbelt03-sheet0.png",
+		"images/obj_transitionscreenshapes-sheet0.png",
+		"images/obj_transitionscreenshapes-sheet1.png",
 		"media/correct.ogg",
 		"media/intro.ogg",
 		"media/lose.ogg",

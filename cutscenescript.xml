@@ -14,10 +14,241 @@
 		<dialogue id = 'dialogue1'>It’s your first day. Don’t let us down! We're starting you off with 2D and 3D shapes, and one conveyor belt!</dialogue>
 		<dialogue id = 'dialogue2'>Good work yesterday, 2 days left. Now we'll move you to our advanced factory area. It has 2 conveyor belts, but sadly we couldn't bring the fancy shape monitor. You'll have to recognize these shapes by name only. Good luck!</dialogue>
 		<dialogue id = 'dialogue3'>Now we're going to combine all your learning from the past 2 days. The conveyor belt speeds are off the scale!</dialogue>
-		<dialogue id = 'dialogue4'>It’ll get harder from this point on, we've removed the visuals of the shape because we know you don't need them. You're a pro, good luck today!</dialogue>
-		<dialogue id = 'dialogue5'>We are running at top speed today! You've trained for this day, all your learning from the past 4 days will come in handy. This is our chance to save the factory.</dialogue>
 	</TransitionScreen>
-
+	
+	<QuizQuestions>
+		<question id = 'question1'>
+			<body>Select the shape with 3 faces.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Cylinder</answer1>
+		</question>
+		
+		<question id = 'question2'>
+			<body>Select the shapes with 4 corners.</body>
+			<numberOfAnswers>4</numberOfAnswers>
+			<answer1>Square</answer1>
+			<answer2>Rectangle</answer2>
+			<answer3>Trapezoid</answer3>
+			<answer4>Parallelogram</answer4>
+		</question>
+		
+		<question id = 'question3'>
+			<body>Select the shapes with 6 faces.</body>
+			<numberOfAnswers>2</numberOfAnswers>
+			<answer1>Cube</answer1>
+			<answer2>Cuboid</answer2>
+		</question>
+		
+		<question id = 'question4'>
+			<body>Select the shape with 1 face.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Sphere</answer1>
+		</question>
+		
+		<question id = 'question5'>
+			<body>Select the shape with 2 faces.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Cone</answer1>
+		</question>
+		
+		<question id = 'question6'>
+			<body>Select the shape with 5 faces.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Pyramid</answer1>
+		</question>
+		
+		<question id = 'question7'>
+			<body>Select the shape with 2 edges.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Cylinder</answer1>
+		</question>
+		
+		<question id = 'question8'>
+			<body>Select the shape with no edges.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Sphere</answer1>
+		</question>
+		
+		<question id = 'question9'>
+			<body>Select the shape with 1 edge.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Cone</answer1>
+		</question>
+		
+		<question id = 'question10'>
+			<body>Select the shape with 8 edges.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Pyramid</answer1>
+		</question>
+		
+		<question id = 'question11'>
+			<body>Select the shapes with 12 edges.</body>
+			<numberOfAnswers>2</numberOfAnswers>
+			<answer1>Cube</answer1>
+			<answer2>Cuboid</answer2>
+		</question>
+		
+		<question id = 'question12'>
+			<body>Select the shapes with no vertices.</body>
+			<numberOfAnswers>2</numberOfAnswers>
+			<answer1>Cylinder</answer1>
+			<answer2>Sphere</answer2>
+		</question>
+		
+		<question id = 'question13'>
+			<body>Select the shape with 1 vertex.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Cone</answer1>
+		</question>
+		
+		<question id = 'question14'>
+			<body>Select the shape with 5 vertices.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Pyramid</answer1>
+		</question>
+		
+		<question id = 'question15'>
+			<body>Select the shapes with 8 vertices.</body>
+			<numberOfAnswers>2</numberOfAnswers>
+			<answer1>Cube</answer1>
+			<answer2>Cuboid</answer2>
+		</question>
+		
+		<question id = 'question16'>
+			<body>Select the shapes with 8 vertices.</body>
+			<numberOfAnswers>2</numberOfAnswers>
+			<answer1>Cube</answer1>
+			<answer2>Cuboid</answer2>
+		</question>
+		
+		<question id = 'question17'>
+			<body>Select the shape with 1 side.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Circle</answer1>
+		</question>
+		
+		<question id = 'question18'>
+			<body>Select the shape with 3 sides.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Triangle</answer1>
+		</question>
+		
+		<question id = 'question19'>
+			<body>Select the shapes with 4 sides.</body>
+			<numberOfAnswers>4</numberOfAnswers>
+			<answer1>Square</answer1>
+			<answer2>Rectangle</answer2>
+			<answer3>Trapezoid</answer3>
+			<answer4>Parallelogram</answer4>
+		</question>
+		
+		<question id = 'question20'>
+			<body>Select the shape with 5 sides.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Pentagon</answer1>
+		</question>
+		
+		<question id = 'question21'>
+			<body>Select the shape with 6 sides.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Hexagon</answer1>
+		</question>
+		
+		<question id = 'question22'>
+			<body>Select the shape with 8 sides.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Octagon</answer1>
+		</question>
+		
+		<question id = 'question23'>
+			<body>Select the shape with no corners.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Circle</answer1>
+		</question>
+		
+		<question id = 'question24'>
+			<body>Select the shape with 3 corners.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Triangle</answer1>
+		</question>
+		
+		<question id = 'question25'>
+			<body>Select the shape with 4 corners.</body>
+			<numberOfAnswers>4</numberOfAnswers>
+			<answer1>Square</answer1>
+			<answer2>Rectangle</answer2>
+			<answer3>Trapezoid</answer3>
+			<answer4>Parallelogram</answer4>
+		</question>
+		
+		<question id = 'question26'>
+			<body>Select the shape with 5 corners.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Pentagon</answer1>
+		</question>
+		
+		<question id = 'question27'>
+			<body>Select the shape with 6 corners.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Hexagon</answer1>
+		</question>
+		
+		<question id = 'question28'>
+			<body>Select the shape with 8 corners.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Octagon</answer1>
+		</question>
+		
+		<question id = 'question29'>
+			<body>Select the shape with infinite lines of symmetry.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Circle</answer1>
+		</question>
+		
+		<question id = 'question30'>
+			<body>Select the shape with 3 lines of symmetry.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Triangle</answer1>
+		</question>
+		
+		<question id = 'question31'>
+			<body>Select the shapes with 6 lines of symmetry.</body>
+			<numberOfAnswers>2</numberOfAnswers>
+			<answer1>Square</answer1>
+			<answer2>Hexagon</answer2>
+		</question>
+		
+		<question id = 'question32'>
+			<body>Select the shape with 2 lines of symmetry.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Rectangle</answer1>
+		</question>
+		
+		<question id = 'question33'>
+			<body>Select the shape with 1 line of symmetry.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Trapezoid</answer1>
+		</question>
+		
+		<question id = 'question34'>
+			<body>Select the shape with no lines of symmetry.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Parallelogram</answer1>
+		</question>
+		
+		<question id = 'question35'>
+			<body>Select the shape with 5 lines of symmetry.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Pentagon</answer1>
+		</question>
+		
+		<question id = 'question36'>
+			<body>Select the shape with 8 lines of symmetry.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Octagon</answer1>
+		</question>
+	</QuizQuestions>
+	
 	<LoseScene>
 		<dialogue id = 'dialogue1'>Our factory isn’t doing any better.</dialogue>
 		<dialogue id = 'dialogue2'>When you’re ready please try again.</dialogue>
@@ -28,3 +259,5 @@
 		<dialogue id = 'dialogue2'>We’d be honored if you’d rename the factory.</dialogue>
 	</WinScene>
 </GameScript>
+
+//xml.StringValue("/GameScript/Cutscenes/scene[@id='scene"&sceneNumber&"']/text()")
