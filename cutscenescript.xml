@@ -212,10 +212,9 @@
 		</question>
 		
 		<question id = 'question31'>
-			<body>Select the shapes with 6 lines of symmetry.</body>
-			<numberOfAnswers>2</numberOfAnswers>
-			<answer1>Square</answer1>
-			<answer2>Hexagon</answer2>
+			<body>Select the shape with 6 lines of symmetry.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Hexagon</answer1>
 		</question>
 		
 		<question id = 'question32'>
@@ -246,6 +245,12 @@
 			<body>Select the shape with 8 lines of symmetry.</body>
 			<numberOfAnswers>1</numberOfAnswers>
 			<answer1>Octagon</answer1>
+		</question>
+		
+		<question id = 'question37'>
+			<body>Select the shape with 4 lines of symmetry.</body>
+			<numberOfAnswers>1</numberOfAnswers>
+			<answer1>Square</answer1>
 		</question>
 	</QuizQuestions>
 	
