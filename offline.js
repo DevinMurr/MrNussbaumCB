@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1503185458,
+	"version": 1503198731,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,7 @@
 		"images/obj_playbutton-sheet0.png",
 		"images/obj_infobutton-sheet0.png",
 		"images/obj_howtoplaybackground-sheet0.png",
+		"images/obj_howtoplaybackground-sheet1.png",
 		"images/obj_closebutton-sheet0.png",
 		"images/obj_creditsbackground-sheet0.png",
 		"images/obj_cutscenes-sheet0.png",
@@ -69,7 +70,6 @@
 		"images/obj_maincharacter-sheet0.png",
 		"images/obj_maincharacter-sheet1.png",
 		"images/obj_workercharacter-sheet0.png",
-		"images/obj_workercharacter-sheet1.png",
 		"images/obj_rivalcharacter-sheet0.png",
 		"images/obj_rivalcharacter-sheet1.png",
 		"images/obj_productspawner-sheet0.png",
@@ -88,6 +88,8 @@
 		"images/obj_conveyorbelt03-sheet0.png",
 		"images/obj_transitionscreenshapes-sheet0.png",
 		"images/obj_transitionscreenshapes-sheet1.png",
+		"images/obj_quizhtp-sheet0.png",
+		"images/obj_conveyorhtp-sheet0.png",
 		"media/correct.ogg",
 		"media/intro.ogg",
 		"media/lose.ogg",
