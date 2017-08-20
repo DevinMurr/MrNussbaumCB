@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <GameScript>
 	<Cutscenes>
 		<scene id = 'scene1'>Welcome to Shape Factory</scene>
@@ -264,5 +264,3 @@
 		<dialogue id = 'dialogue2'>We’d be honored if you’d rename the factory.</dialogue>
 	</WinScene>
 </GameScript>
-
-//xml.StringValue("/GameScript/Cutscenes/scene[@id='scene"&sceneNumber&"']/text()")
